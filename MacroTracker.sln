@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacroTracker", "MacroTracker\MacroTracker.csproj", "{5447EC45-4364-437D-B9EE-9E10E0A78846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5447EC45-4364-437D-B9EE-9E10E0A78846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5447EC45-4364-437D-B9EE-9E10E0A78846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5447EC45-4364-437D-B9EE-9E10E0A78846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5447EC45-4364-437D-B9EE-9E10E0A78846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7B5E44-C62E-4D02-B197-E214D325E977}
+	EndGlobalSection
+EndGlobal
